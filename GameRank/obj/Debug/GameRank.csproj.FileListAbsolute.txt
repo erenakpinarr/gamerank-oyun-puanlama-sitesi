@@ -1,0 +1,75 @@
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.csproj.AssemblyReference.cache
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.Properties.Resources.resources
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.csproj.GenerateResource.cache
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.csproj.CoreCompileInputs.cache
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\bin\Debug\GameRank.exe.config
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\bin\Debug\GameRank.exe
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\bin\Debug\GameRank.pdb
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.exe
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.pdb
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\bin\Debug\GameRank.exe.config
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\bin\Debug\GameRank.exe
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\bin\Debug\GameRank.pdb
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\bin\Debug\Interop.WMPLib.dll
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\bin\Debug\AxInterop.WMPLib.dll
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.csproj.AssemblyReference.cache
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.exe.config
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\Interop.WMPLib.dll
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\AxInterop.WMPLib.dll
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.csproj.ResolveComReference.cache
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.Form1.resources
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.Properties.Resources.resources
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.csproj.GenerateResource.cache
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.csproj.CoreCompileInputs.cache
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.exe
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.pdb
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.OyunFormu.resources
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.hakkimizda.resources
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.iletişim.resources
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.acshadows.resources
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.cod6.resources
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.cyberpunk.resources
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.eldenring.resources
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.gow.resources
+G:\Drive'ım\Eren Ders\Görsel Programlama (C#)\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.witcher3.resources
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\bin\Debug\Interop.WMPLib.dll
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.exe.config
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\Interop.WMPLib.dll
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.csproj.ResolveComReference.cache
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.acshadows.resources
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.cod6.resources
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.cyberpunk.resources
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.eldenring.resources
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.gow.resources
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.hakkimizda.resources
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.iletişim.resources
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.oyunformu.resources
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.witcher3.resources
+C:\Users\erena\Desktop\Görsel Programlama Proje\GameRank\GameRank\obj\Debug\GameRank.gamerankanasayfa.resources
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\bin\Debug\GameRank.exe.config
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\bin\Debug\GameRank.exe
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\bin\Debug\GameRank.pdb
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\bin\Debug\Interop.WMPLib.dll
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\obj\Debug\GameRank.csproj.AssemblyReference.cache
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\obj\Debug\GameRank.exe.config
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\obj\Debug\Interop.WMPLib.dll
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\obj\Debug\GameRank.csproj.ResolveComReference.cache
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\obj\Debug\GameRank.acshadows.resources
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\obj\Debug\GameRank.cod6.resources
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\obj\Debug\GameRank.cyberpunk.resources
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\obj\Debug\GameRank.eldenring.resources
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\obj\Debug\GameRank.gamerankanasayfa.resources
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\obj\Debug\GameRank.gow.resources
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\obj\Debug\GameRank.hakkimizda.resources
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\obj\Debug\GameRank.iletişim.resources
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\obj\Debug\GameRank.oyunformu.resources
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\obj\Debug\GameRank.Properties.Resources.resources
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\obj\Debug\GameRank.witcher3.resources
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\obj\Debug\GameRank.csproj.GenerateResource.cache
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\obj\Debug\GameRank.csproj.CoreCompileInputs.cache
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\obj\Debug\GameRank.exe
+C:\Users\erena\Desktop\Game Rank (Oyun Puanlama Sitesi)\GameRank\GameRank\obj\Debug\GameRank.pdb
