@@ -1,1 +1,0 @@
-# gamerank-oyun-puanlama-sitesi
